@@ -1,19 +1,15 @@
-<img src="https://github.com/iamricha019/iamricha019/blob/main/cover.png" alt="Richa Singh - Data Engineer" style="width:100%;"/>
+<h1 align="center">Hi 👋, I'm Ansh Lamba</h1>
+<h4 align="center">I am a passionate Data Engineer nearly 2 years of experience turning raw data into meaningful insights. I work with modern tools like Azure Data Factory, Databricks, Azure Synapse Analytics, Delta Lake, and the Data Lakehouse to build efficient data pipelines and solutions in the cloud. I love learning and continuously improving my skills to stay up-to-date with the latest in the field.</h4>
 
----
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
-### Hi 👋, I'm Richa Singh.
-<h4 align="center">I am a passionate Data Engineer with over 3 years of experience turning raw data into meaningful insights. I work with modern tools like Azure Data Factory, Databricks, Azure Synapse Analytics, Delta Lake, and the Data Lakehouse to build efficient data pipelines and solutions in the cloud. I love learning and continuously improving my skills to stay up-to-date with the latest in the field.</h4>
 
-🔧 I specialize in:
-- Azure Data Factory
-- Databricks (Spark + Delta Lake)
-- Azure SQL, Synapse
-- Python & PySpark
-- Data Lakehouse & Medallion Architecture
+- 🔭 I’m a **Data Engineer**
 
-### 📫 Let’s Connect
+- 👨‍💻 Ask me about **Cloud Data Engineering**
 
-- 📧 iamricha019@gmail.com
-- 🌐 [LinkedIn](https://linkedin.com/in/YOUR-LINK) *(Update with your actual LinkedIn)*
+- 💬 LinkedIn **www.linkedin.com/in/richasingh019**
+
+- 📧 Email **iamricha019@gmail.com**
+  
 
